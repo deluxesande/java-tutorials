@@ -1,3 +1,7 @@
 {
-    "java.project.sourcePaths": ["src/com/tutorial", "src/com/oop"]
+    "java.project.sourcePaths": [
+        "src/com/tutorial",
+        "src/com/oop",
+        "src/com/game"
+    ]
 }
